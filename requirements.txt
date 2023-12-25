@@ -1,0 +1,10 @@
+discord.py==3.10.11
+python-dotenv==1.0.0
+asgiref==3.7.2
+openai==1.2.3
+revChatGPT==6.8.6
+GoogleBard==2.1.0
+EdgeGPT==0.13.2
+selenium==4.15.2
+undetected-chromedriver==3.5.3
+tiktoken==0.5.1
